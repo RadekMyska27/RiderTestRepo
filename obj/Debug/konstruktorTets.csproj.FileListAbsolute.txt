@@ -1,0 +1,6 @@
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\bin\Debug\konstruktorTets.exe
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\bin\Debug\konstruktorTets.pdb
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\obj\Debug\konstruktorTets.csprojAssemblyReference.cache
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\obj\Debug\konstruktorTets.csproj.CoreCompileInputs.cache
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\obj\Debug\konstruktorTets.exe
+E:\PROJEKTY_.NET_C#\konstruktor\konstruktorTets\obj\Debug\konstruktorTets.pdb
