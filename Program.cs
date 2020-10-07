@@ -10,9 +10,8 @@ namespace konstruktorTets
             var nahodneCisla = new NahodneCisla();
             var data = new Dictionary<LogicSettings, string>();
 
-            data.Add(new LogicSettings
+            data.Add(new LogicSettings(true)
             {
-                A = true,
                 B = true,
                 C = true
             }, "first");
@@ -50,6 +49,14 @@ namespace konstruktorTets
             public bool B { get; set; }
             public bool C { get; set; }
             public bool D { get; set; }
+
+            public LogicSettings()
+            {
+            }
+            public LogicSettings(bool a)
+            {
+                A = a;
+            }
         }
     }
 }
